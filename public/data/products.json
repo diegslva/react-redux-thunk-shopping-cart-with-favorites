@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "name": "Camiseta Polo",
+        "price": 25
+    },
+    {
+        "id": 2,
+        "name": "Bermuda Jeans",
+        "price": 49
+    },
+    {
+        "id": 3,
+        "name": "Tênis Social",
+        "price": 89
+    },
+    {
+        "id": 4,
+        "name": "Chinelo Havainas",
+        "price": 25
+    }
+]
